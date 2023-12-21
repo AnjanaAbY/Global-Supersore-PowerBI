@@ -19,7 +19,7 @@ Welcome to the Power BI project for the global store dataset! This project provi
 
 To get started with the Power BI project, follow these steps:
 
-1. Download the Power BI file from [insert_link_here].
+1. Download the Power BI file from [https://docs.google.com/spreadsheets/d/1Ez8RhO1rE2QikfdddOZ19eEZhN4r6eW7WHb9qB05T7E/edit?usp=sharing].
 2. Open the file using Power BI Desktop.
 3. Explore the various visualizations and tables to gain insights into sales transactions.
 
@@ -29,7 +29,7 @@ To get started with the Power BI project, follow these steps:
 
 ## Data Cleaning
 
-The dataset has undergone basic data cleaning to ensure accuracy and consistency. Cleaning steps include [mention specific data cleaning steps if relevant].
+The dataset has undergone basic data cleaning to ensure accuracy and consistency. Cleaning steps include correcting the column headers,removing/filling null values if required.
 
 ## Visual Segmentation
 
@@ -61,13 +61,10 @@ The dataset has undergone basic data cleaning to ensure accuracy and consistency
 ## Tables
 
 - **Tables for Detailed Information:**
-  - Supporting tables have been created for each visualization, providing detailed metrics such as total sales, average sales, etc.
+  - Supporting tables have been created for each visualization.
 
 ## Contributing
 
 If you would like to contribute to this project, please follow our [contribution guidelines](CONTRIBUTING.md).
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
