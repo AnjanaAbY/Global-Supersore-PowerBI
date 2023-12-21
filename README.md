@@ -67,4 +67,8 @@ The dataset has undergone basic data cleaning to ensure accuracy and consistency
 
 Fell free to contribute to this project.
 
+### Unable to View Power BI File?
+
+If you are not able to view the Power BI file, please check the [Releases section](../../releases) 
+
 
