@@ -65,6 +65,6 @@ The dataset has undergone basic data cleaning to ensure accuracy and consistency
 
 ## Contributing
 
-If you would like to contribute to this project, please follow our [contribution guidelines](CONTRIBUTING.md).
+Fell free to contribute to this project.
 
 
