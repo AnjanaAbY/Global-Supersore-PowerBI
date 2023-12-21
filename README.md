@@ -6,7 +6,7 @@ Welcome to the Power BI project for the global store dataset! This project provi
 
 ## Table of Contents
 
-- [Getting Started]
+- [Getting Started](#Getting_Started)
 - [Data Cleaning](#data-cleaning)
 - [Visual Segmentation](#visual-segmentation)
 - [Shipping Analysis](#shipping-analysis)
