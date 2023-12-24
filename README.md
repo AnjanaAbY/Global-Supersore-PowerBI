@@ -13,7 +13,7 @@ Welcome to the Power BI project for the global store dataset! This project provi
 - [Sales Visualizations](#sales-visualizations)
 - [Tables](#tables)
 - [Contributing](#contributing)
-- [Unable to View Power BI File?](#unable-to-view-power-bi-file)
+- [To download Power BI File?](#To-download-power-bi-file)
 
 ## Getting Started
 
