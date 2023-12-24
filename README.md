@@ -13,7 +13,7 @@ Welcome to the Power BI project for the global store dataset! This project provi
 - [Sales Visualizations](#sales-visualizations)
 - [Tables](#tables)
 - [Contributing](#contributing)
-- [To download Power BI File?](#To-download-power-bi-file)
+- [To download Power BI File](#To-download-power-bi-file)
 
 ## Getting Started
 
@@ -67,8 +67,8 @@ The dataset has undergone basic data cleaning to ensure accuracy and consistency
 
 Fell free to contribute to this project.
 
-## Unable to View Power BI File?
+## To download Power BI File
 
-If you are not able to view the Power BI file, please check the [Releases section](../../releases) 
+If you are not able to download the Power BI file, please check the [Releases section](../../releases) , there you can find the power BI file,screenshot and video.
 
 
